@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+imblearn
+xgboost
+lightgbm
+catboost
+tensorflow
+opencv-python
+Pillow
+joblib
+openai
+requests
